@@ -22,4 +22,9 @@ dnf5 -y install --nogpgcheck --repofrompath 'terra,https://repos.fyralabs.com/te
 # Enable sunshine repo
 dnf5 -y copr enable lizardbyte/beta
 
+dnf5 -y copr enable solopasha/hyprland
+dnf5 -y copr enable erikreider/SwayNotificationCenter
+dnf5 -y copr enable pgdev/ghostty
+dnf5 -y copr enable wezfurlong/wezterm-nightly
+
 echo "::endgroup::"
