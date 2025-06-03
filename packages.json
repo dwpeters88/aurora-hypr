@@ -107,6 +107,11 @@
 				"bcc",
 				"bpftop",
 				"bpftrace",
+				"vivaldi",
+				"steam",
+				"lutris",
+				"mangahud",
+				"godot",
 				"cascadia-code-fonts",
 				"cockpit-bridge",
 				"cockpit-machines",
@@ -186,7 +191,7 @@
 				"blender-extras-datafiles-datafiles",
 				"blender-extras-datafiles-datafiles-datafiles",
 				"blender-extras-datafiles-datafiles-datafiles-datafiles",
-				"blender-extras-datafiles-datafiles-datafiles-datafiles-datafiles",
+				"blender-extras-datafiles-datafiles-datafiles-datafiles-datafiles"
 			]
 		},
 		"exclude": {
@@ -201,6 +206,7 @@
 				"krfb-libs",
 				"plasma-welcome-fedora",
 				"podman-docker"
+				
 			],
 			"dx": []
 		}
